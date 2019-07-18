@@ -1,12 +1,12 @@
 ------------------------------------------------|             SPAM TELPON UNLIMETED            |
-------------------------------------------------
-|      Athor     = Rabel Genji                 |
-|      Update    = 07-January-2019             |
-|      TooL Spam = Telpon    		               |
-|      GitHub    = -			                     |
-|      Youtube   = Gebang Kiidiw               |
-|      Info      = Gunakan Dengan Bijak Yee ^_^|
-------------------------------------------------
+-------------------------------------------------
+|      Athor     = Rabel Genji                  |
+|      Update    = 18-JULy-2019                 |
+|      TooL Spam = Telpon    		        |
+|      GitHub    = https://github.com/Testter404|
+|      Youtube   = Gebang Kiidiw                |
+|      Info      = Gunakan Dengan Bijak Yee ^_^ |
+-------------------------------------------------
 
 <?php
 system('clear');
@@ -116,11 +116,11 @@ class prankcall{
 }
 echo " \n";
 echo "------------------------------------------------|             SPAM TELPON UNLIMETED            |------------------------------------------------
-|      Athor     = Rabell Genji                |
-|      Update    = 07-January-2019             ||      TooL Spam = Telpon                      |
-|      GitHub    = -                           |
-|      Youtube   = Gebang Kiidiw               |
-|      Info      = Gunakan Dengan Bijak Yee ^_^|
+|      Athor     = Rabell Genji                  |
+|      Update    = 18-JULY-2019                  ||      TooL Spam = Telpon                      |
+|      GitHub    = -https://github.com/Testter404|
+|      Youtube   = Gebang Kiidiw                 |
+|      Info      = Gunakan Dengan Bijak Yee ^_^  |
 ------------------------------------------------\n";
 echo " \n";
 echo " \n";
