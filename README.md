@@ -2,9 +2,9 @@
 
 
 #Spam Call Unlimited
-<li>$ pkg update && pkg upgrade
-<li>$ pkg install php
-<li>$ pkg install git
+<li>$ pkg update -y && pkg upgrade -y
+<li>$ pkg install php -y
+<li>$ pkg install git -y
 <li>$ git clone https://github.com/Testter404/RabellGenji
 <li>$ cd SpamSms
 <li>$ php SpamCall.php
