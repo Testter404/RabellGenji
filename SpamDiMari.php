@@ -17,6 +17,7 @@ echo "
     Mod By      : Rabell Genji
     Contact Me  : ekaseptiawa482@gmail.com
     Blog        : https://github.com/Testter404
+    WA Grub     : https://chat.whatsapp.com/JFNgf0u7tai3b0qIMgIzzg
     Youtube     : -
     Instagram   : -
     Thanks to   : Mailng Online
