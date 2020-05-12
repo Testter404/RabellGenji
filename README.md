@@ -1,15 +1,10 @@
-# RabellGenji
+YouTube View Bot V1.0
+=======================
 
+A YouTube Bot coded in Python 2.7.
+It is currently discontinued. I don't have any plans to currently work, upgrade, or verify working functionality. Feel free to fork the project though. 
 
-#Spam Call Unlimited
-<li>$ pkg update -y && pkg upgrade -y
-<li>$ pkg install php -y
-<li>$ pkg install git -y
-<li>$ git clone https://github.com/Testter404/RabellGenji
-<li>$ cd RabellGenji
-<li>$ php SpamDiMari.php
-<li>$ php SpamWa.php
-<li> Masukan No Target ===> 
-<li> Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1
-<li> JumlahSpam ===> Masukan Jumlah yang ingin dispam
-<li> [Succes]
+Requirements
+============
+1. Selenium | https://www.seleniumhq.org/download/
+2. wxPython | https://wxpython.org
