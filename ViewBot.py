@@ -6,7 +6,7 @@ import itertools
 import time
 
 
-proxies = open("C:\Users\Name\Documents\YouTube\Bots\proxies.txt")
+proxies = open("C:\Users\hack\Documents\YouTube-View-Bot-master\80K.txt")
 
 fp = webdriver.FirefoxProfile()
 fp.set_preference('network.proxy.ssl', next(proxies))
@@ -29,7 +29,7 @@ class MainFrame(wx.Frame): # Main Frame
       wx.Frame.__init__(self, wx.GetApp().TopWindow, title=self.title, style= wx.SYSTEM_MENU | wx.CAPTION | wx.CLOSE_BOX)
       panel=wx.Panel(self)
       textbox1 = wx.TextCtrl(panel, pos=(10,10),size=(100,-1))
-      textbox1.AppendText("Video Url")
+      textbox1.AppendText("https://www.youtube.com/watch?v=Aj3VrhOV5lE")
       textbox2 = wx.TextCtrl(panel, pos=(10,40),size=(100,-1))
       textbox2.AppendText("# of Views")
       def loopin(event):
